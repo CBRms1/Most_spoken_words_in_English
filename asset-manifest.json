@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Most_spoken_words_in_English/static/css/main.a1f3a28f.css",
+    "main.js": "/Most_spoken_words_in_English/static/js/main.5ebfe770.js",
+    "index.html": "/Most_spoken_words_in_English/index.html",
+    "main.a1f3a28f.css.map": "/Most_spoken_words_in_English/static/css/main.a1f3a28f.css.map",
+    "main.5ebfe770.js.map": "/Most_spoken_words_in_English/static/js/main.5ebfe770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f3a28f.css",
+    "static/js/main.5ebfe770.js"
+  ]
+}
